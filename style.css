@@ -1,0 +1,15 @@
+:root {
+    --header-color: #133d64;
+    --text-color: #6d7587;
+    --background-color: #f2f4f9;
+    --theme-color: #557fe9;
+}
+
+body {
+    background: var(--background-color);
+    color: var(--text-color);
+}
+
+h1 {
+    color: var(--header-color);
+}
